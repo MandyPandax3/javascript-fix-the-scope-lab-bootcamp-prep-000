@@ -10,10 +10,10 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return n + two
-
-  // Feel free to move things around!
+  parseInt('n')
   const two = 2
+  return n + two
+  
 }
 
 var funkyFunction = function() {
